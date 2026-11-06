@@ -1,0 +1,39 @@
+DA/T 71-2018 纸质档案缩微数字一体化技术规范	https://www.saac.gov.cn/daj/hybz/201806/02b967f0784740caa6fc09d13c2f775e/files/6ada5e4006df450fa9e581b0571cbd95.pdf
+DA/T 70-2018 文书类电子档案检测一般要求	https://www.saac.gov.cn/daj/hybz/201806/51dc58c8f5864df49eaaeb82dfe8e193/files/c56f09e7648345baa692f82b4bdc4689.pdf
+DA/T 69-2018 纸质归档文件装订规范	https://www.saac.gov.cn/daj/hybz/201806/48c3ea1491c349ab86b56bb514b88904/files/57cec20f13bb4486bfe6d0310922b1b4.pdf
+DA/T 68.5—2026档案服务外包工作规范 第5部分 档案寄存服务	https://www.saac.gov.cn/daj/hybz/202608/9421c3f300284a01a68c3d5c0dfe599a.shtml
+DA/T 68.4—2022档案服务外包工作规范第4部分 档案整理服务	https://www.saac.gov.cn/daj/hybz/202206/ab529a9a65ab4768b4bd3ad109e4f411.shtml
+DA/T 68.3-2020 档案服务外包工作规范 第3部分：档案管理咨询服务	https://www.saac.gov.cn/daj/hybz/202005/3c5f347aa80c4ca2bfc528a2ac5a88e8.shtml
+DA/T 68.2-2020 档案服务外包工作规范 第2部分：档案数字化服务	https://www.saac.gov.cn/daj/hybz/202005/cce9c156ea7141f6b6f311d7cdc1dd24.shtml
+DA/T 68.1-2020 档案服务外包工作规范 第1部分：总则	https://www.saac.gov.cn/daj/hybz/202005/13c44a4c7bb847ada280e460d3db5a5b.shtml
+DA/T 66-2017 城市轨道交通工程文件归档要求与档案分类规范	https://www.saac.gov.cn/daj/hybz/201806/e5b7710af8a04a77a514afe581b63d5c/files/7f9cba046b264fa69948d93f2d5916c5.pdf
+DA/T 65-2017 档案密集架智能管理系统技术要求	https://www.saac.gov.cn/daj/hybz/201806/b917fc8396444b6c88307b72f187759e/files/10d40c653a204d8c928751fddf14248b.pdf
+DA/T 63-2017 录音录像类电子档案元数据方案	https://www.saac.gov.cn/daj/hybz/201806/fd5adfa2aebd4b779e173dc2ec1e164d/files/4a3d7d2f42564a45b4e24f204614d27d.pdf
+DA/T 62-2017 录音录像档案数字化规范	https://www.saac.gov.cn/daj/hybz/201806/9d13ff4963f146ce861527917def163c/files/47f8ce35645147398656f798434f154b.pdf
+DA/T 61-2017 明清纸质档案病害分类与图示	https://www.saac.gov.cn/daj/hybz/201806/e5726339bfcb47c9b94ff82a723278f3/files/6639c4c5a29d44609af37d06b99aaf97.pdf
+DA/T 60-2017 纸质档案真空充氮密封包装技术要求	https://www.saac.gov.cn/daj/hybz/201806/984ad6c8793c47faa76c5ac98935b526/files/2bafd635a8094e9c8650fadcffbdb5de.pdf
+DA/T 59-2017 口述史料采集与管理规范	https://www.saac.gov.cn/daj/hybz/201806/f5622dbc469340799aaccdd7e42a0150/files/6b5376b5788b4ce680d08d1cb1b8946d.pdf
+DA/T 58-2014 电子档案管理基本术语	https://www.saac.gov.cn/daj/hybz/201806/11d12caaf89e4228a720b07fddffb480/files/4edded2147cc407fa4c72638eedc9726.pdf
+DA/T 57-2014 档案关系型数据库转换为XML文件的技术规范	https://www.saac.gov.cn/daj/hybz/201806/abf84ddde8b04af48365e7e5cd89d27b/files/2b953be85e1946d0a49ad0aa8a99f691.pdf
+DA/T 56-2014 档案信息系统运行维护规范	https://www.saac.gov.cn/daj/hybz/201806/3ee9b036760c48e4b083f55dcdcf6972/files/b1347b0f32f944b486f596520cc1e220.pdf
+DA/T 55-2014 特藏档案库基本要求	https://www.saac.gov.cn/daj/hybz/201806/9459947932794119ad9f553c748b2522/files/4b82cb3a40df47f5a9768cb5486cda3e.pdf
+DA/T 54-2014 照片类电子档案元数据方案	https://www.saac.gov.cn/daj/hybz/201806/7b1d96f4000e40d2b67245fecc062686/files/11319856b15348a388f29434874b699b.pdf
+GB/T 42727-2023政务服务事项电子文件归档规范	https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BDE6985A0D44105DB8429EF9F72C9747
+GB/T 42468.1-2023 纸质档案抢救与修复规范 第1部分：破损等级的划分	https://www.saac.gov.cn/daj/gjbz/202310/3b60615b50af4071a61469a06c677599.shtml
+GB/T 42468.2-2023 纸质档案抢救与修复规范 第2部分：档案保存状况的调查方法	https://www.saac.gov.cn/daj/gjbz/202310/71e371a19bc642bf8dd913a31f0c7190.shtml
+GB/T 42468.3-2023 纸质档案抢救与修复规范 第3部分：修复质量要求	https://www.saac.gov.cn/daj/gjbz/202310/69b3088a03ca4290ae1571b75f8df29d.shtml
+GB/T 18894-2016	电子文件归档与电子档案管理规范	https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D81026D3A7E05397BE0A0AB82A
+GB/T 11822-2008 科学技术档案案卷构成的一般要求	https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7F581D3A7E05397BE0A0AB82A
+GB/T 9705-2008 文书档案案卷格式	https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D75D51D3A7E05397BE0A0AB82A
+GB/T 11821-2002 照片档案管理规范	https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7999CD3A7E05397BE0A0AB82A
+GB/T 13967-2026全宗管理规则	https://std.samr.gov.cn/gb/search/gbDetailed?id=49FD1852CAB2C31FE06397BE0A0A1304
+GB/T 17678-2025 CAD电子文件归档与管理规范	https://std.samr.gov.cn/gb/search/gbDetailed?id=473EBB99D730455EE06397BE0A0ABB9A
+GB/T 44435-2024 信息与文献 数字文件（档案）转换和迁移过程	https://std.samr.gov.cn/gb/search/gbDetailed?id=234D7936AB5BE194E06397BE0A0AA0A9
+GB/T 42745-2023 信息与文献 可信的第三方数字文件（档案）仓储	https://std.samr.gov.cn/gb/search/gbDetailed?id=027A6096B03D643EE06397BE0A0A0867
+GB/T 26163.2-2023 信息与文献 文件(档案)管理元数据 第2部分:概念化及实施	https://std.samr.gov.cn/gb/search/gbDetailed?id=027A6096B030643EE06397BE0A0A0867
+GB/T 41207-2025  信息与文献 文件（档案）管理体系 实施指南	https://std.samr.gov.cn/gb/search/gbDetailed?id=3B46A026CC4D469CE06397BE0A0AEEB8
+GB/T 34112-2022  信息与文献 文件（档案）管理体系 要求	https://std.samr.gov.cn/gb/search/gbDetailed?id=E3C42FB7AC2A2086E05397BE0A0A19F0
+GB/T 34840.3-2017  信息与文献 电子办公环境中文件管理原则与功能要求 第3部分:业务系...	https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D828F1D3A7E05397BE0A0AB82A
+GB/T 34840.2-2017  信息与文献 电子办公环境中文件管理原则与功能要求 第2部分:数字文...	https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D823E6D3A7E05397BE0A0AB82A
+GB/T 34840.1-2017  信息与文献 电子办公环境中文件管理原则与功能要求 第1部分: 概述...	https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D81BDFD3A7E05397BE0A0AB82A
+GB/T 34110-2025  信息与文献 文件（档案）管理 核心概念与术语	https://std.samr.gov.cn/gb/search/gbDetailed?id=33D40F11612D5D92E06397BE0A0A5B93
