@@ -4,6 +4,20 @@
 
 在线演示：https://rag.langxo.com/
 
+## 界面
+
+登录后进入对话页，左边是历史会话，右边是聊天区。
+
+![登录页](docs/images/login.png)
+
+新开会话时先给一段说明，直接提问就行。
+
+![对话页](docs/images/chat.png)
+
+提问后先看到检索动作（命中几段、耗时多少），再给出带出处的答案，底部标着本轮工具调用次数。
+
+![问答结果](docs/images/answer.png)
+
 ## 检索链路
 
 `retrieve_doc` 这一个工具做三件事：先用 DashScope 的 embedding 模型把问题向量化，再在 Milvus 里同时发起稠密和稀疏两路检索，最后用 gte-rerank 做重排，取前 3 段返回。
