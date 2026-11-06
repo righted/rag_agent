@@ -1,0 +1,32 @@
+services:
+  rag-agent:
+    build: .
+    image: rag-agent:latest
+    container_name: rag-agent
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      WEDDING_DB: /app/var/app.db
+      USER_DB: /app/var/users.db
+      SESSION_DB: /app/var/sessions.db
+      STEP_DB: /app/var/steps.db
+      CACHE_DB: /app/var/cache.db
+      TZ: Asia/Shanghai
+    ports:
+      # 只绑本机，外网统一走 nginx
+      - "127.0.0.1:8101:8001"
+    volumes:
+      - rag_data:/app/var
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://127.0.0.1:8001/', timeout=5).status == 200 else 1)"
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 180s
+
+volumes:
+  rag_data:
