@@ -2,7 +2,8 @@
 
 一个网页版的知识库问答助手。提问后它会先去 Milvus 里检索，把命中的原文段落连同出处交给模型，答案只基于检索结果。
 
-在线演示：https://rag.langxo.com/
+在线演示：https://rag.langxo.com
+(test/test)
 
 ## 界面
 
