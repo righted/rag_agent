@@ -113,7 +113,7 @@ async def build_agent(checkpointer):
         state_schema=RagState,
         checkpointer=checkpointer,
         system_prompt=(
-            "你是一个专业知识库问答助手。用户提问时先调用 retrieve_doc 检索知识库，"
+            "你是一个专业档案问答助手。用户提问时先调用 retrieve_doc 检索知识库，"
             "只回答检索到的内容，并标出出处；查不到或不确定的，如实说明没有找到。"
         ),
     )
